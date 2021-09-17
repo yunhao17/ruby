@@ -27,5 +27,4 @@ else
   p "風量の値は1~3にしてください"
   exit
 end
-
 p require_time
